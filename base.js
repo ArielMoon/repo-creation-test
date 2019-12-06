@@ -8,4 +8,8 @@ process = () => {
 
 };
 
+postProcess = () => {
+    //get some data from outside system
+};
+
 start();
